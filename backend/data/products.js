@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Face Mask Set",
     image: "/images/facemask.jpg",
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "Cleanser",
     image: "/images/cleanser.jpg",
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Orchid Enriched Moisturiser",
     image: "/images/moisturiser.jpg",
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Jade Roller",
     image: "/images/jaderoller.jpg",
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Aloe Vera Lipstick/Lip Balm",
     image: "/images/lipbalm.jpg",
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "Sunscreen",
     image: "/images/sunscreen.jpg",
     description: "Daily UV Defense, SPF 36+ Sunscreen",
